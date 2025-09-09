@@ -20,6 +20,25 @@ namespace Turtle22
             GreenFrog f6 = new GreenFrog(2, "f6");
 
 
+
+            f0.Move();
+            f6.Jump();
+            f5.Move();
+            f0.Jump();
+            f1.Jump();
+            f2.Move();
+            f6.Move();
+            f6.Jump();
+            f5.Jump();
+            f4.Jump();
+            f0.Move();
+            f1.Jump();
+            f2.Jump();
+            f5.Move();
+            f4.Jump();
+            f2.Move();
+
+
         }
     }
 }
